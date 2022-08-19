@@ -1,0 +1,9 @@
+D:\BMU\c#\Proqramlar\millioner\millioner\bin\Debug\millioner.exe.config
+D:\BMU\c#\Proqramlar\millioner\millioner\bin\Debug\millioner.exe
+D:\BMU\c#\Proqramlar\millioner\millioner\bin\Debug\millioner.pdb
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.csprojResolveAssemblyReference.cache
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.Form1.resources
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.Properties.Resources.resources
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.csproj.GenerateResource.Cache
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.exe
+D:\BMU\c#\Proqramlar\millioner\millioner\obj\Debug\millioner.pdb
